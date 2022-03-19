@@ -1,3 +1,5 @@
+# Note! Neatly-Sorted morphed into Neatly project https://github.com/ivang-coder/neatly. Neatly-Sorted code is stable, however this repo is no longer maintained.
+
 # Neatly-Sorted Readme
 Neatly-Sorted is a Shell-written EXIF-based media file processor with sort and deduplication features.
 
